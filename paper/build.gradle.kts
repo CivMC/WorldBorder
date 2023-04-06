@@ -11,7 +11,7 @@ civGradle {
 }
 
 dependencies {
-    paperDevBundle("1.18.1-R0.1-SNAPSHOT")
+    paperDevBundle("1.19.4-R0.1-SNAPSHOT")
     implementation("com.googlecode.json-simple:json-simple:1.1.1")
     compileOnly("us.dynmap:dynmap-api:2.5")
 }
